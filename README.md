@@ -6,3 +6,6 @@ Highly recomended to use tlt container (version >= 2) which supports TensorRT an
 1. tensorrt version : 7.0.0-1
 2. cuda : 10.0
 
+## Installation
+ > python3 setup.py install
+
